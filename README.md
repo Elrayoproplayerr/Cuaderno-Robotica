@@ -2,3 +2,6 @@
 Hola soy Alejandro Esquinas y desde aquí explicare las actividades que iremos haciendo a lo largo del año.
 
 Placa de arduino 1.
+<p align="center">
+<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/442a97637e30869ebea8ee00c6dd925c190251d7/Pasos%20Previos/Imagenes/arduinounopines.png" />
+</p>
