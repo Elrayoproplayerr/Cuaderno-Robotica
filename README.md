@@ -5,3 +5,4 @@ Placa de arduino 1.
 <p align="center">
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/442a97637e30869ebea8ee00c6dd925c190251d7/Pasos%20Previos/Imagenes/arduinounopines.png" />
 </p>
+Este reto consiste en conseguir que un led se encienda primero mientras el otro permanezca apagado y así sucesivamente.
