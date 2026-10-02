@@ -10,6 +10,8 @@ Este reto consiste en conseguir que un led se encienda primero mientras el otro 
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/d19cbae7419d2849bf3357345a3a003e90a06138/Pasos%20Previos/Imagenes/montaje.png">
 </p>
 
+La placa de arduino le da corriente a la protoboard desde la GND
+
 
 <p align="center">
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/b0c452fa2bd8076c0d4a655e676510d10db24bcd/Pasos%20Previos/Imagenes/codigo.png" />
