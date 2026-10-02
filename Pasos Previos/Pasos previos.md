@@ -9,3 +9,5 @@ Este reto consiste en conseguir que un led se encienda primero mientras el otro 
 <p align="center">
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/b0c452fa2bd8076c0d4a655e676510d10db24bcd/Pasos%20Previos/Imagenes/codigo.png" />
 </p>
+
+El código dicta que mientras un led esta apagado 1 segundo el otro este encendido cuando pase el segundo se invierten los papeles.
