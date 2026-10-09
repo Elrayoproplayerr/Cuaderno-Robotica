@@ -21,6 +21,7 @@ delay(1000): espera 1 segundo.
 
 Después,el LED del pin 13 se apaga y el del pin 12 se enciende,y vuelve a esperar 1 segundo.
 
-
-
+<p align="center">
+<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/204bfa3f6ec7c9244772b8a26c6dc0eca53b57f9/Pasos%20Previos/Imagenes/simulacion.png" />
+</p>
 
