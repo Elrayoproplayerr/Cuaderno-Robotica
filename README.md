@@ -26,7 +26,12 @@ Después,el LED del pin 13 se apaga y el del pin 12 se enciende,y vuelve a esper
 </p>
 
 <p align="center">
+
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/49e05701a90dfb24935629585f35197e44cc46b3/Pasos%20Previos/Imagenes/simulacion%202.png" />
+
+PULSADOR.
+
+
 </p>
 
 
