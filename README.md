@@ -31,6 +31,8 @@ Después,el LED del pin 13 se apaga y el del pin 12 se enciende,y vuelve a esper
 
 PULSADOR.
 
+Este resto consiste en hacer que se encienda el led cuando presionemos el pulsador.
+
 <p align="center">
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/0291b826f5191cd84c1765f1a1b627cdd6490158/Pasos%20Previos/Imagenes/codigo%20pulsador.png" />
 </p>
