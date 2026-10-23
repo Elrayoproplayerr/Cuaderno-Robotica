@@ -40,3 +40,70 @@ Este resto consiste en hacer que se encienda el led cuando presionemos el pulsad
 El código hace que un LED conectado al pin 13 de Arduino se encienda durante 1 segundo y se apague durante otro segundo, repitiendo este proceso continuamente.
 - setup(): configura el pin 13 como salida.
 - loop(): enciende y apaga el LED continuamente.
+
+
+
+
+
+
+
+Potenciómetro. Monitor serie.
+
+int P2 = A2; 
+float valor = 0;
+float deceroauno;
+void setup() {
+   Serial.begin(9600);
+}
+void loop() {
+   valor = analogRead(P2);
+   Serial.println(valor);
+   delay(20);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
