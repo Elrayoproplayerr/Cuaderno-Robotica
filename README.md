@@ -50,11 +50,14 @@ El código hace que un LED conectado al pin 13 de Arduino se encienda durante 1 
 Potenciómetro. Monitor serie.
 
 int P2 = A2; 
+
 float valor = 0;
+
 float deceroauno;
 void setup() {
    Serial.begin(9600);
 }
+
 void loop() {
    valor = analogRead(P2);
    Serial.println(valor);
