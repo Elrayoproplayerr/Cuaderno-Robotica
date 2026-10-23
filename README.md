@@ -64,6 +64,14 @@ __void loop() {
    delay(20);
 }__
 
+<p align="center">
+<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/9dda9911d654a0d1df97763e602d9eac481fc924/Pasos%20Previos/Imagenes/IMG-20261021-WA0002%20(1).jpg" />
+</p>
+
+
+
+
+
 
 
 
