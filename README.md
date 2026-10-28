@@ -64,6 +64,18 @@ __void loop() {
    delay(20);
 }__
 
+
+Este código de Arduino lee una señal analógica del pin A2 y muestra su valor en el Monitor Serie.
+- int P2 = A2;: asigna el pin analógico A2 a la variable P2.
+- float valor = 0;: crea una variable para guardar la lectura.
+- float deceroauno;: declara una variable que no se utiliza.
+- Serial.begin(9600);: inicia la comunicación con el ordenador.
+- analogRead(P2);: lee el valor analógico del pin A2 (de 0 a 1023 en un Arduino Uno).
+- Serial.println(valor);: muestra el valor leído.
+- delay(20);: espera 20 milisegundos antes de repetir la lectura.
+
+
+
 <p align="center">
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/9dda9911d654a0d1df97763e602d9eac481fc924/Pasos%20Previos/Imagenes/IMG-20261021-WA0002%20(1).jpg" width="650" height="550" />
 </p>
