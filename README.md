@@ -80,17 +80,10 @@ Este código de Arduino lee una señal analógica del pin A2 y muestra su valor 
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/9dda9911d654a0d1df97763e602d9eac481fc924/Pasos%20Previos/Imagenes/IMG-20261021-WA0002%20(1).jpg" width="650" height="550" />
 </p>
 
+|Video|
+|---|
 
 [![](https://img.youtube.com/vi/0cYxnLRgeP4/0.jpg)](https://www.youtube.com/watch?v=0cYxnLRgeP4)
-
-
-
-
-
-
-
-
-
 
 
 
