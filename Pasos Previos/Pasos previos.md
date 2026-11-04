@@ -81,3 +81,6 @@ Este código de Arduino lee una señal analógica del pin A2 y muestra su valor 
 |---|
 
 [![](https://img.youtube.com/vi/0cYxnLRgeP4/0.jpg)](https://www.youtube.com/watch?v=0cYxnLRgeP4)
+
+
+Ultrasonido.
