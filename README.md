@@ -77,7 +77,7 @@ Este código de Arduino lee una señal analógica del pin A2 y muestra su valor 
 
 
 <p align="center">
-<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/9dda9911d654a0d1df97763e602d9eac481fc924/Pasos%20Previos/Imagenes/IMG-20261021-WA0002%20(1).jpg" width="650" height="550" />
+<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/9dda9911d654a0d1df97763e602d9eac481fc924/Pasos%20Previos/Imagenes/IMG-20261021-WA0002%20(1).jpg" width="650" height="650" />
 </p>
 
 |Video|
