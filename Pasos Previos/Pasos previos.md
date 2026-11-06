@@ -40,7 +40,7 @@ El código hace que un LED conectado al pin 13 de Arduino se encienda durante 1 
 
 
 <p align="center">
-<img src="" />
+<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/1a77581cbcee055d1efb2b58ba467d0c5fd0b68f/Pasos%20Previos/Imagenes/reto%202%20b.PNG" />
 </p>
 
 
