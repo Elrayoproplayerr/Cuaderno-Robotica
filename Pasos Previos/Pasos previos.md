@@ -29,6 +29,7 @@ Después,el LED del pin 13 se apaga y el del pin 12 se enciende,y vuelve a esper
 PULSADOR.
 
 Este resto consiste en hacer que se encienda el led cuando presionemos el pulsador.
+CODIGO:
 
 <p align="center">
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/0291b826f5191cd84c1765f1a1b627cdd6490158/Pasos%20Previos/Imagenes/codigo%20pulsador.png" />
@@ -37,7 +38,13 @@ Este resto consiste en hacer que se encienda el led cuando presionemos el pulsad
 El código hace que un LED conectado al pin 13 de Arduino se encienda durante 1 segundo y se apague durante otro segundo, repitiendo este proceso continuamente.
 - setup(): configura el pin 13 como salida.
 - loop(): enciende y apaga el LED continuamente.
+MONTAJE:
+  *Cables
+  *Una resistencia
+  *Un diodo LED
+  *Un pulsador
 
+El pulsador permite abrir o cerrar el circuito depende del tipo que sea. En este caso es pull UP, asique se cierra el circuito cuando se pulsa. Y mientras no se pulse, un muelle abre el circuito evitando la corriente.
 
 <p align="center">
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/1a77581cbcee055d1efb2b58ba467d0c5fd0b68f/Pasos%20Previos/Imagenes/reto%202%20b.PNG" />
