@@ -39,7 +39,9 @@ El código hace que un LED conectado al pin 13 de Arduino se encienda durante 1 
 - loop(): enciende y apaga el LED continuamente.
 
 
-
+<p align="center">
+<img src="" />
+</p>
 
 
 
