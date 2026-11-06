@@ -50,6 +50,8 @@ El pulsador permite abrir o cerrar el circuito depende del tipo que sea. En este
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/1a77581cbcee055d1efb2b58ba467d0c5fd0b68f/Pasos%20Previos/Imagenes/reto%202%20b.PNG" />
 </p>
 
+BOTON sin PULSAR.
+<img width="466" height="512" alt="image" src="https://github.com/user-attachments/assets/1f601c1d-2f9f-4cc0-bfe4-688662d0779f" />
 
 
 
