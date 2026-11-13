@@ -32,7 +32,7 @@ Este resto consiste en hacer que se encienda el led cuando presionemos el pulsad
 CODIGO:
 
 <p align="center">
-<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/0291b826f5191cd84c1765f1a1b627cdd6490158/Pasos%20Previos/Imagenes/codigo%20pulsador.png" />
+<img src="" />
 </p>
 
 El código hace que un LED conectado al pin 13 de Arduino se encienda durante 1 segundo y se apague durante otro segundo, repitiendo este proceso continuamente.
