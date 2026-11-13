@@ -29,7 +29,8 @@ Después,el LED del pin 13 se apaga y el del pin 12 se enciende,y vuelve a esper
 ## PULSADOR.
 
 Este resto consiste en hacer que se encienda el led cuando presionemos el pulsador.
-CODIGO:
+
+CODIGO:al principio del todo, he colocado las distintas variables que necesitaba para la práctica, siempre se ponen antes del void setup. Posteriormente, he puesto el void setup, declarando los pines de cada uno de los componentes. Después, el void loop, en el que lo primero que tenemos que poner es el digitalRead, para que esté todo el rato leyendo los valores del pulsador, y que lo meta en la variable pulsadorlectura. Para finalizar, colocamos dos if, uno que explica que, si el pulsador se encuentra en LOW, los diodos deben estar encendidos, y otro que es al revés. Después, ponemos nuestras correspondientes llaves y el programa está finalizado. Debemos empezar ya a tabular, que consiste en diferenciar qué parte del programa va con cual, insertando espacios.
 
 <img width="394" height="398" alt="image" src="https://github.com/user-attachments/assets/c2f9a39b-7416-40ca-925a-f770debf2e78" />
 
