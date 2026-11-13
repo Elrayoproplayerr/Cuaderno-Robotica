@@ -1,4 +1,4 @@
-Placa de arduino 1.
+# PLACA ARDUINO UNO
 
 <p align="center">
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/442a97637e30869ebea8ee00c6dd925c190251d7/Pasos%20Previos/Imagenes/arduinounopines.png" />
@@ -26,19 +26,14 @@ Después,el LED del pin 13 se apaga y el del pin 12 se enciende,y vuelve a esper
 <img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/49e05701a90dfb24935629585f35197e44cc46b3/Pasos%20Previos/Imagenes/simulacion%202.png" />
 </p>
 
-PULSADOR.
+## PULSADOR.
 
 Este resto consiste en hacer que se encienda el led cuando presionemos el pulsador.
 CODIGO:
 
-<p align="center">
-<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/0291b826f5191cd84c1765f1a1b627cdd6490158/Pasos%20Previos/Imagenes/codigo%20pulsador.png" />
+<img width="394" height="398" alt="image" src="https://github.com/user-attachments/assets/c2f9a39b-7416-40ca-925a-f770debf2e78" />
 
 
-
-El código hace que un LED conectado al pin 13 de Arduino se encienda durante 1 segundo y se apague durante otro segundo, repitiendo este proceso continuamente.
-- setup(): configura el pin 13 como salida.
-- loop(): enciende y apaga el LED continuamente.
 MONTAJE:
   *Cables
   *Una resistencia
@@ -56,7 +51,7 @@ BOTON sin PULSAR.
 
 
 
-Potenciómetro. Monitor serie.
+## POTENCIOMETRO MONITOR SERIE.
 
 __int P2 = A2;__
 
