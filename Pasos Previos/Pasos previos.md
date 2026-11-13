@@ -31,9 +31,9 @@ PULSADOR.
 Este resto consiste en hacer que se encienda el led cuando presionemos el pulsador.
 CODIGO:
 
-<p align="center">
-<img src="" />
-</p>
+<img width="164" height="196" alt="image" src="https://github.com/user-attachments/assets/cb1b12f1-f3a8-46a0-a276-866675011ffe" />
+
+
 
 El código hace que un LED conectado al pin 13 de Arduino se encienda durante 1 segundo y se apague durante otro segundo, repitiendo este proceso continuamente.
 - setup(): configura el pin 13 como salida.
