@@ -31,7 +31,8 @@ PULSADOR.
 Este resto consiste en hacer que se encienda el led cuando presionemos el pulsador.
 CODIGO:
 
-<img width="164" height="196" alt="image" src="https://github.com/user-attachments/assets/cb1b12f1-f3a8-46a0-a276-866675011ffe" />
+<p align="center">
+<img src="https://github.com/Elrayoproplayerr/Cuaderno-Robotica/blob/0291b826f5191cd84c1765f1a1b627cdd6490158/Pasos%20Previos/Imagenes/codigo%20pulsador.png" />
 
 
 
