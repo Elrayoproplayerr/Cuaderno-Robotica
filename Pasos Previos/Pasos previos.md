@@ -134,6 +134,15 @@ El "loop" se usará básicamente para transformar el valor delpotenciómetro y p
 Resultado:
 El resultado de esto es que conforme giramos el potenciómetro, va a ir saliendo en la pantalla los números desde 0 hasta 100 en vez de 0 a 1023.
 
+## PWM
+## Montaje:
+En este montaje solo hay que añadir un diodo led y una resistencia al circuito de antes.
+
+| Desde arriba | Desde el lado |
+|----------|----------|
+| <img width="360" height="420" alt="download" src="https://github.com/Alexus8650/Robotica-26-27-4ESO/blob/ae894c421a78f36938f3b33cbe189e15749efa7d/Pasos%20Previos/Im%C3%A1genes/montaje%20reto5.jpeg" /> | <img width="360" height="420" alt="download" src="https://github.com/Alexus8650/Robotica-26-27-4ESO/blob/ae894c421a78f36938f3b33cbe189e15749efa7d/Pasos%20Previos/Im%C3%A1genes/montaje%20reto%205%20a.jpeg" /> |
+
+
 
 
 
