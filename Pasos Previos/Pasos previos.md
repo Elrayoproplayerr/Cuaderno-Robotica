@@ -101,4 +101,4 @@ En el monitor serie de arduino empieza a verse los datos que detecta del potenci
 
 
 
-##Ultrasonido.
+## ULTRASONIDO.
