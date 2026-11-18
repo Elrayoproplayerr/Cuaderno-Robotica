@@ -129,6 +129,10 @@ El "loop" se usará básicamente para transformar el valor delpotenciómetro y p
 4-Hacemos un pequeño delay para que nos dé tiempo a leer lo que hay en pantalla.
 
 
+<img width="288" height="227" alt="image" src="https://github.com/user-attachments/assets/843679f3-becd-4448-821f-30d8312eaf11" />
+
+Resultado:
+El resultado de esto es que conforme giramos el potenciómetro, va a ir saliendo en la pantalla los números desde 0 hasta 100 en vez de 0 a 1023.
 
 
 
