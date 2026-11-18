@@ -143,14 +143,26 @@ En este montaje solo hay que añadir un diodo led y una resistencia al circuito 
 | <img width="360" height="420" alt="download" src="https://github.com/Alexus8650/Robotica-26-27-4ESO/blob/ae894c421a78f36938f3b33cbe189e15749efa7d/Pasos%20Previos/Im%C3%A1genes/montaje%20reto5.jpeg" /> | <img width="360" height="420" alt="download" src="https://github.com/Alexus8650/Robotica-26-27-4ESO/blob/ae894c421a78f36938f3b33cbe189e15749efa7d/Pasos%20Previos/Im%C3%A1genes/montaje%20reto%205%20a.jpeg" /> |
 
 
+## Programa
+1. int "Pinpot", esta declara, como en el programa anterior, el pin al que está conectado el potenciómetro.
+2. int "Pinled", este, al igual que la anterior, declara el pin de un componente, pero en este caso es el de un led. Este led se debe encontrar en un pin digital especial, debe tener una virgulilla este pin, ya que estos pines tienen la característica de imitar pines analógicos. Y necesitamos esta función para poder modificar la intensidad de luz del diodo.
+3. float "valorpot", esta tiene la misma función que en el reto anterior.
+4. float "luminosidad", esta tiene la misma función que mapeopot en el reto anterior.
+
+"setup":
+1. Esteblecemos el pin del led en OUTPUT.
+2. Ejecutamos el puerto serie.
+
+ "loop":
+1. Empezamos igual que en el reto anterior, metemos en "valorpot" lo que mide el pin del potenciómetro.
+2. Mapeamos el valor del potenciómetro desde los valores suyos a los valores de 0 a 255 (los valores del diodo), y esto lo metemos en la variable de luminosidad.
+3. Imprimimos en la pantalla el valor mapeado.
+4. Activamos el pin del diodo con la intensidad del mapeo.
+5. Un breve delay para poder leer la pantalla.
 
 
 
-
-
-
-
-
+<img width="305" height="280" alt="image" src="https://github.com/user-attachments/assets/eb074dc2-cabb-42c4-a5b4-13af8421eaea" />
 
 
 
