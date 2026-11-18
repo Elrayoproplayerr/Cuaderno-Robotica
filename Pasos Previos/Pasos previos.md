@@ -165,9 +165,18 @@ En este montaje solo hay que añadir un diodo led y una resistencia al circuito 
 <img width="305" height="280" alt="image" src="https://github.com/user-attachments/assets/eb074dc2-cabb-42c4-a5b4-13af8421eaea" />
 
 
+# Reto 6: Ultrasonidos-diodo
+
+## Montaje
+
+El montaje tiene dos circuitos, uno es el del ultrasonidos y el otro el del diodo.
+
+Los ultrasonidos tiene 4 puertos: De positivo (5V), negativo (GND), trigger (Da la señal de emisión de sonido a los ultrasonidos) y echo (este pin habal con la placa y le dice el tiempo que ha tardado en volver los sonidos al componente). El trigger se conecta al pin 12 y el echo el el 13 (en este caso).
+
+El diodo se conecta al pin nueve con una resistencia en serie.
 
 
-
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/37532323-4229-46a4-b84b-57dbb4580bff" />
 
 
 
