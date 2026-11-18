@@ -102,3 +102,14 @@ En el monitor serie de arduino empieza a verse los datos que detecta del potenci
 
 
 ## ULTRASONIDO.
+
+
+# Reto 4: Mapeado de datos del potenciómetro
+Este reto se basa en el anterior, solo se implementará la función del mapeado en el código para transformar los datos del potenciómetro (0-1023) a otros.
+
+## Montaje
+Es el mismo montaje que en el "Reto 3". Solo cambia el programa y la ejecución de los datos.
+
+| Desde el lado | Desde arriba |
+|----------|----------|
+|<img width="360" height="420" alt="download" src="https://github.com/Alexus8650/Robotica-26-27-4ESO/blob/dfcf4259c1a4c0d49a0ec1fb235f6d8ab0694669/Pasos%20Previos/Im%C3%A1genes/IMG-20261021-WA0001.jpg" />|<img width="360" height="420" alt="download" src="https://github.com/Alexus8650/Robotica-26-27-4ESO/blob/dfcf4259c1a4c0d49a0ec1fb235f6d8ab0694669/Pasos%20Previos/Im%C3%A1genes/IMG-20261021-WA0002.jpg" />|
